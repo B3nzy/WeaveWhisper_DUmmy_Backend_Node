@@ -7,4 +7,6 @@ CREATE TABLE user(
     PRIMARY KEY(ID)
 );
 
+
+
 INSERT INTO user(name, email, password, type) VALUES("Sumit Mandal", "sumit.mandal0123@gmail.com", "sumit@123", "customer");
